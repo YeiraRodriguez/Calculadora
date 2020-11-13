@@ -19,4 +19,4 @@ Widgets adicionales:
 
 -Button-Limpiar: Elimina los valores de los números, la unidad y el resultado
 
--Messagebox: Mensaje de error cuando se pretende hacer la división por cero o cuando falta ingresar alguno valor
+-Messagebox: Mensaje de error cuando se pretende hacer la división por cero o cuando falta ingresar algún valor
