@@ -17,6 +17,6 @@ Widgets adicionales:
 
 -Combobox: Permite agregar al resultado una unidad de medida
 
--Button-Limpiar: Elimina los valores los números, unidad y resultado
+-Button-Limpiar: Elimina los valores de los números, la unidad y el resultado
 
 -Messagebox: Mensaje de error cuando se pretende hacer la división por cero o cuando falta ingresar alguno valor
